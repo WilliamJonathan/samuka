@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126484930365",
+    "project_id": "samuka-a99e4",
+    "storage_bucket": "samuka-a99e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126484930365:android:270403730d8d0f0699af54",
+        "android_client_info": {
+          "package_name": "com.samuk.inha.com.br"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSlcOs_QnkMyUD5EmUYB95s7m8Pd8A3Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126484930365:android:7b9cb12931ed2f5c99af54",
+        "android_client_info": {
+          "package_name": "com.samuk.inha.com.br.samuka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSlcOs_QnkMyUD5EmUYB95s7m8Pd8A3Wo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
